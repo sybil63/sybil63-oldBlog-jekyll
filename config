@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	name = sybil63
+	email = xichen0603@gmail.com
+[remote "origin"]
+	url = git@github.com:sybil63/sybil63.github.com.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
