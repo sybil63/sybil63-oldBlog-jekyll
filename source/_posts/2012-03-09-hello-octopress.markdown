@@ -6,4 +6,4 @@ comments: true
 categories: [test, octopress]
 ---
 
-This is my first post of octopress, hope it work fine~
+This is my first post of octopress, hope it work fine
