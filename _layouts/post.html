@@ -9,6 +9,8 @@ layout: default
 
 {{ content }}
 
+</div>
+
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
@@ -18,4 +20,6 @@ layout: default
   </ul>
 </div>
 
-</div>
+{% include share.html %}
+<br/>
+{% include disqus.html %}
