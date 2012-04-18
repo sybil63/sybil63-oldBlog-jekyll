@@ -23,11 +23,16 @@
         <a href="/blog/archives"><span>Archives<span></a>
     </header>
 
-    {{ content }}
+    <div id = 'main-content'>
+        {{ content }}
+    </div>
 
     <div class = "footer">
         <p>
         Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} -
+        </p>
+        <p>
+            The Blog is powered by <a href='https://github.com/mojombo/jekyll' target=_black>Jekyll</a>
         </p>
     </div>
 </div>

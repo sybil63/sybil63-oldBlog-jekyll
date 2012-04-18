@@ -5,11 +5,9 @@ layout: default
 <div id="post">
 
 <p class="title">{{ page.title }} </p>
-<p class="meta">22 Nov 2011 - San Francisco</p>
+<p class="meta"> {{ page.date | date : "%Y-%m-%d %a %H:%M --Beijing" }} </p>
 
 {{ content }}
-
-</div>
 
 <div id="related">
   <h2>Related Posts</h2>
@@ -18,4 +16,6 @@ layout: default
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+</div>
+
 </div>
