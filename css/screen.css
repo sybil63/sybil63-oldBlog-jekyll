@@ -13,19 +13,21 @@
 
 html, body {
     height: 100%;
+    font-family: Verdana, Arial;
+    font-size: 14px;
 }
 
 body {
-    font: 13.34px helvetica, arial, clean, sans-serif;
-          *font-size: small;
-          text-align: center;
-    max-width: 1000px;
     position: relative;
     background-color: #ccc;
+    background-image: url(/images/bg_noise.png);
 }
 
   #main-content {
     background-color: white;
+      text-align: justify;
+      margin: 3em auto 2em auto;
+      padding: 40px;
 }
 
 header.page-header {
@@ -89,6 +91,11 @@ table {
     font: 100%;
 }
 
+hr {
+    margin:20px 0 19px;
+    border:0;
+    border-bottom:1px solid #eee;
+}
 /*****************************************************************************/
 /*
 /* Home
@@ -120,7 +127,7 @@ ul.posts li {
   .site {
       font-size: 110%;
       text-align: justify;
-      width: 60em;
+      width: 50em;
       margin: 3em auto 2em auto;
       line-height: 1.5em;
 }
@@ -129,6 +136,7 @@ ul.posts li {
     color: #a00;
     font-weight: bold;
     margin-bottom: 2em;
+    font-size: 24px;
 }
 
 .site .title a {

@@ -8,7 +8,9 @@ categories: ['test']
 ---
 
 ## 测试img
-![Sakula](http://sybil-blog.b0.upaiyun.com/sakula.jpg!octo4dc)
+
+![Sakula](http://sybil-blog.b0.upaiyun.com/sakula.jpg!blog4dc)
+
 testetste
 
 ## test highlight 
