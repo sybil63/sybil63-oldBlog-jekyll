@@ -204,7 +204,7 @@ ul.posts li {
 
 #post pre {
     border: 1px solid #ddd;
-    background-color: #eef;
+    /*background-color: #eef;*/
     padding: 0 .4em;
   }
 
@@ -215,7 +215,7 @@ ul.posts li {
 
   #post code {
       border: 1px solid #ddd;
-      background-color: #eef;
+ /*     background-color: #eef;*/
       font-size: 85%;
       padding: 0 .2em;
   }

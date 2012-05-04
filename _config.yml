@@ -7,6 +7,10 @@ title: Sybil's Blog
 subtitle: Now is only the beginning~
 author: Sybil
 
+#The syntax to highlight code
+#monokai, perldoc, default, native
+syntax: monokai
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
