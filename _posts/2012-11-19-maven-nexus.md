@@ -28,8 +28,8 @@ maven的另一个好处是，依赖的管理。这个问题对于贵司来说用
 
 ## nexus搭建
  * 下载源码 
-        
-        http://www.sonatype.org/nexus/
+ 
+ [nexus源码](http://www.sonatype.org/nexus/)
 
  * 解压源码
 
