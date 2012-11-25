@@ -4,7 +4,7 @@ layout: post
 title: 新玩具
 date: 2012-05-21 21:22
 comments: false
-categories: [life]
+categories: [生活]
 ---
 
 5.15暴雪又出现在这个世界祸害人间。至从高三彻夜不眠玩大航海ONLINE以后，我已经快5年没有碰过大型游戏了。但是暴雪的诱惑实在是太大，禁不住引诱，又准备下海了>_<。

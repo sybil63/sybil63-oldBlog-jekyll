@@ -124,6 +124,32 @@ ul.posts li {
       font-size: 80%;
   }
 
+  .circle-wrapper {
+      margin: 2em 0;
+      display: block; 
+  }
+  .circle-wrapper:hover .circle {
+      background-color: #333333;
+      -webkit-transition: background-color .2s linear;
+      -moz-transition: background-color .2s linear; 
+  }
+  .circle {
+      display: inline-block;
+      width: 0.8em;
+      height: 0.8em;
+      line-height: 1;
+      background-color: #cccccc;
+      -moz-border-radius: 0.4em;
+      -webkit-border-radius: 0.4em; 
+  }
+  .center {
+      text-align: center; 
+  }
+
+  .center a:visited {
+      color: white;
+  }
+
   /*****************************************************************************/
   /*
   /* Site

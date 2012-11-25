@@ -4,7 +4,7 @@ layout: post
 title: 适可而止
 date: 2012-05-17 00:19
 comments: false
-categories: [flash]
+categories: [随想]
 ---
 
 有些想法闪过，不记录下来就忘记了，或者激动的想了很久，然后夜不能寐。既然如此，那么就把想法从内存里持久化下来，记录到文字里，然后丢弃出内存，释放宝贵的资源。
