@@ -10,6 +10,7 @@ author: Sybil
 #The syntax to highlight code
 #monokai, perldoc, default, native
 syntax: monokai
+paginate: 10 //the number of post per page
 
 # ----------------------- #
 #    Jekyll & Plugins     #

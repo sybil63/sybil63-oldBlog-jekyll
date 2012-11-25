@@ -4,11 +4,12 @@ title: Sybil63
 ---
 
 <div id="home">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <p class='title'><a href="{{ post.url }}">{{ post.title }}</a></p>
     <div id = "post">
         <p class="meta"> {{ post.date | date : "%Y-%m-%d %a %H:%M" }} </p>
-        {{ post.content }}
+        {{ post.content | truncatehtml: 500 }}
+        <a href="{{post.url}}"><p class='info'>阅读全文... </p></a>
     </div>
     {% if forloop.last == false %}
     <br/><hr/>

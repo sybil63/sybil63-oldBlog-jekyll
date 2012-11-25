@@ -168,6 +168,10 @@ ul.posts li {
       color: #aaa;
   }
 
+  .site .info {
+      color: #a00;
+  }
+
   .site .footer {
       font-size: 80%;
       color: #666;
